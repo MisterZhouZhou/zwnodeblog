@@ -11,8 +11,7 @@
   "author": "",
   "license": "ISC",
   "engines": {
-    "node": "8.6.0",
-    "npm": "5.3.x"  //npm 的版本不需指明，可选  
+    "node": "8.6.0"
   }, 
   "dependencies": {
     "dateformat": "^3.0.2",
